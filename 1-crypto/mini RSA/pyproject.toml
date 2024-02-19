@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "mini rsa"
+version = "0.1.0"
+description = ""
+authors = ["YisusChrist <alejandro.gonzalezm02@estudiante.uam.es>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+gmpy2 = "^2.1.5"
+libnum = "^1.7.1"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

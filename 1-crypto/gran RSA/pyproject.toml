@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "gran rsa"
+version = "0.1.0"
+description = ""
+authors = ["YisusChrist <alejandro.gonzalezm02@estudiante.uam.es>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+pycryptodome = "3.20.0"
+sympy = "1.12"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
